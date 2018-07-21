@@ -1,24 +1,13 @@
-# README
+# Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Rails API covers all the basic CRUD actions.
 
-Things you may want to cover:
+* GET,POST,UPDATE,DELETE actions are covered. 
 
-* Ruby version
+* Used Postgresql instead of Sqlite3
 
-* System dependencies
+* Use Postman App to Check the endpoints.
 
-* Configuration
+* Isolated API controller from the Application code.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Versioning of API
