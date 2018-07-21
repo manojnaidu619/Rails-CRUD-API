@@ -1,0 +1,3 @@
+<% @clients.each do |client| %>
+ <%= link_to client.email, api_v1_user_path(client) %><br>
+<% end %>
